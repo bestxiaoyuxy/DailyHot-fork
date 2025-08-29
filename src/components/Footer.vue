@@ -1,5 +1,6 @@
 <template>
   <footer>
+    <!--
     <div class="copyright">
       <n-text class="description" v-html="packageJson.description" />
       <n-text
@@ -16,6 +17,7 @@
       v-html="icp"
       @click="jumpLink('https://beian.miit.gov.cn/')"
     />
+    -->
   </footer>
 </template>
 
